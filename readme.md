@@ -1,17 +1,13 @@
-# Three.js Starter
+## ENRTY-09 of 100
+ThreeJS 3D Skybox Scene
+
+## Description
+A 3D skybox scene with a geometric object using HTMl, CSS, Javascript, and THREEJS in WebGL. The purpose of this entry was to create my first skybox scene using ThreeJS.
+
+
+
+### Three.js Starter
 Courtesy of Bruno Simon of https://threejs-journey.xyz/
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
-
-``` bash
-# Install dependencies (only the first time)
-npm install
-
-# Run the local server at localhost:8080
-npm run dev
-
-# Build for production in the dist/ directory
-npm run build
-```
+### Author
+Dmitri K So.
